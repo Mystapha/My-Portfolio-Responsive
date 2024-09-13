@@ -129,7 +129,9 @@ header .header-content .content-text{
 }
 
 header .header-content img{
-    max-width:250px;
+    max-width:450px;
+    margin-top: -120px;
+    border-radius:30%;
 }
 
 /* Header End*/
